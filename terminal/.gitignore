@@ -1,0 +1,3 @@
+config/*.py
+!config/__init__.py
+!config/schema.py
