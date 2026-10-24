@@ -1,4 +1,4 @@
-""""""
+"""Data schema for terminal configurations."""
 
 from dataclasses import dataclass
 

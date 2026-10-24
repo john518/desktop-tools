@@ -1,3 +1,4 @@
 config/*.py
 !config/__init__.py
+!config/default.py
 !config/schema.py
